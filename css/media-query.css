@@ -1,0 +1,5 @@
+@media (min-width: 320px) and (max-width: 768px) {
+	.wg-main .wg-price{padding-top:10px;}
+	.wg-main .wg-form-label{margin-top: 0;padding-left: 0;}
+	.wg-main .wg-form-row{margin-left: 0;margin-right: 0;}
+}
